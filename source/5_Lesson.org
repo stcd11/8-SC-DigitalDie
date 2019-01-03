@@ -121,3 +121,7 @@
 :END:
 
 - Take pictures of your digital die for assessment.
+
+- *The silver badge is progress ladder green - Produce a working model from parts supplied by a teacher, with limited assistance.*
+- *The gold badge is progress ladder blue - Produce challenging, high-quality, working products with very limited teacher assistance.*
+- *The platinum badge is progress ladder indigo - Independently produce fully working, high quality products.*

@@ -137,4 +137,8 @@
 - Take a picture of the solder side and component side of your board.
 - Upload your program to your board and make sure it works. Take a photo of your board working.
 - Your badge will be awarded according to the quality of your work.
+- *The silver badge progress ladder, green - Solder more challenging components (e.g. ICs) to a PCB, with assistance.*
+- *This gold badge progress ladder, blue - Confidently and consistently solder components to a high standard.*
+- *This platinum badge progress ladder, indigo - Produce working boards to a high standard, ensuring wires are correctly dressed and soldering is tidy.*
+
 

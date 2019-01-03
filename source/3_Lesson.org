@@ -148,6 +148,8 @@
 - Use the simulation to write down which outputs will need to be set to /high/ for each number the die will generate from 1 through to 6.
 - Using the diagram below and any graphics package you choose, draw a basic diagram to show how the arrangement of LEDs will be connected to the pins of the GENIE chip.
 [[file:img/genieChip.png]]
+
+- *This silver badge progress ladder indigo - Follow a PCB created by a third party, and identify some of the outputs and inputs.*
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
@@ -161,6 +163,7 @@
 :END:
 - Use the file you downloaded earlier and your knowledge of which outputs to send high to complete the program and test it to make sure it works.
 - Take a screenshot of your program when you have finished.
+- *This gold badge progress ladder yellow - With assistance, write a simple program to manipulate outputs*
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
@@ -168,3 +171,4 @@
 - There are many ways of solving this probems.
 - See if you can come up with an alternative algorithm that doesn't use the =Random= block.
 - Take a screenshot of your program when it is complete.
+- *This platinum badge progress ladder, green - With assistance, write programs to handle inputs in a PIC circuit.*

@@ -164,6 +164,8 @@ file:img/blink2.gif
   1. What is digital data?
   2. Why can't we use 9V with a GENIE chip?
   3. What does a Voltage Regulator do?
+-  *This is the Silver badge - Progress ladder, Yellow - Conduct some relevant research on a project, with assistance.*
+
 * Pull Down Resistors
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -211,6 +213,8 @@ file:img/multimeter.png
   - What voltages are required to give a logical 0 or 1 on an input pin for a GENIE chip?
   - What is meant by a floating pin?
   - How does a pull down resistor prevent a pin from floating?
+  - *This is the Gold badge - Progress ladder, Green -  Research a project in a variety of ways without assistance.*
+
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
@@ -223,3 +227,4 @@ file:img/multimeter.png
 - Test it out again.
 - Once you have designed the circuit, take a screenshot of the breadboard without the pull-down resistor, with an explanation of how the circuit worked.
 - Now take another screentshot with the pull-down resistor in the circuit, with an explanation of how it worked.
+- *This is the Platinum badge - Progress Ladder, Green - Use a breadboard to model a simple circuit (e.g. LED torch), with assistance.*

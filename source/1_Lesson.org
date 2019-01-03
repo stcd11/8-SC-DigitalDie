@@ -116,9 +116,11 @@
   1. What is a pseudorandom number?
   2. What is a true random number?
   3. What is the example given for how a computer can generate a random number?
+-  *This is the Silver badge - Progress ladder, Yellow - Conduct some relevant research on a project, with assistance.*
 ** Badge It - Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - You've had some experience with programming micro-controllers now, so you should have some idea of how they work.
 - Brainstorm some different ideas for how different input components could be used to generate some random numbers. What sensors could you use?
+  - *This is the Gold badge - Progress ladder, Green -  Research a project in a variety of ways without assistance.*
