@@ -33,11 +33,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:    
-* [[file:pages/5_Lesson.html][Week 6 - Designing a 3D Die]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: link-heading
-:END:
-* [[file:pages/evaluation.html][Week 7 - Evaluation]]
+* [[file:pages/evaluation.html][Week 6 - Evaluation]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
